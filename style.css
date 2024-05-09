@@ -1,0 +1,34 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 100px brown;
+    border: 15px solid blanchedalmond;
+    border-radius: 10px;
+}
+
+a
+{
+    margin: 15px;
+    padding: 5px;
+}
+
+#Coco
+{
+    width: 300px;
+    border-radius: 40px;
+}
